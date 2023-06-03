@@ -44,10 +44,13 @@
   Run maze generator : 
     (display : 1 default true, 0 false) (num_maze : default 1)
     python maze_generator.py --display=1 --num_mazes=1
+    
   Run solver : 
     (algorithm + _pathfinder) (maze name + .csv)
     python dfs_pathfinder.py --maze_file=maze_0.csv --display=1
+    
   Run visualizer : 
     (algorithm : dfs, bfs, Astar, IDAstar
     python visualize.py --maze_file=maze_0.csv --algorithm=dfs
+    
 # Other detail please read the slide 
