@@ -50,3 +50,4 @@
   Run visualizer : 
     (algorithm : dfs, bfs, Astar, IDAstar
     python visualize.py --maze_file=maze_0.csv --algorithm=dfs
+# Other detail please read the slide 
