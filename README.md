@@ -46,7 +46,7 @@
     python maze_generator.py --display=1 --num_mazes=1
     
   Run solver : 
-    (algorithm + _pathfinder) (maze name + .csv)
+    (algorithm) (maze name + .csv)
     python DFS.py --maze_file=maze_0.csv --display=1
     
   Run visualizer : 
